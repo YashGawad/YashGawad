@@ -162,7 +162,7 @@
         <br>
        <!-- Dynamic Activity Analytics Dashboard -->
       <a href="https://github.com/YashGawad">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?    username=YashGawad&bg_color=0D1117&color=c9d1d9&line=4493F8&point=FFFFFF&hide_border=true&hide_title=true&area=true" alt="Yash's Activity Graph" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashGawad&bg_color=0D1117&color=c9d1d9&line=4493F8&point=FFFFFF&hide_border=true&hide_title=true&area=true" alt="Yash's Activity Graph" width="100%" /
       </a>
         <br><br>
       </td>
