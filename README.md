@@ -46,59 +46,84 @@
 
 <br>
 
-### ✦ Currently Building: The Main Feature
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="700">
-        <h3 align="center">🍎 Food Nutrition Estimator</h3>
-        <p align="center"><em>An AI-powered web application that analyzes food images and estimates nutritional information.</em></p>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,spring,py,tensorflow,mysql,aws&theme=dark" alt="Tech Stack" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/YashGawad/food-nutrition-estimator"><img src="https://img.shields.io/badge/View_Source-238636?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <!-- Add Live Demo link when ready -->
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
+<!-- REDESIGNED FEATURED PROJECTS SECTION -->
 ### ✦ Featured Projects
 
 <div align="center">
-  <table>
+  <!-- PRIMARY SHOWCASE PROJECT -->
+  <table width="100%">
     <tr>
-      <td width="350" valign="top">
-        <b>🛒 Gawad Electronics</b><br>
-        <sub>Next.js + Tailwind CSS + E-commerce</sub><br>
-        Modern e-commerce storefront with seamless UI and responsive design.<br><br>
-        <a href="#"><code>Repository ↗</code></a>
-      </td>
-      <td width="350" valign="top">
-        <b>⚛️ React Projects</b><br>
-        <sub>React + JavaScript + Frontend</sub><br>
-        A collection of interactive web interfaces and frontend applications.<br><br>
-        <a href="#"><code>Repository ↗</code></a>
+      <td colspan="2" align="center">
+        <h2>🍎 FOOD NUTRITION & CALORIE DETECTION</h2>
+        <p><kbd>✓ COMPLETED</kbd> &nbsp;|&nbsp; <b>AI + FULL STACK + CLOUD</b></p>
       </td>
     </tr>
     <tr>
-      <td width="350" valign="top">
-        <b>☕ Java & DSA</b><br>
-        <sub>Java + Data Structures + Algorithms</sub><br>
-        Comprehensive implementations of core algorithms and problem-solving.<br><br>
-        <a href="#"><code>Repository ↗</code></a>
+      <td width="55%" valign="top">
+        <blockquote>
+          An AI-powered web application that analyzes food images, recognizes the food, and estimates calorie and nutritional information.
+        </blockquote>
+        <b>Key Features:</b>
+        <ul>
+          <li>Food image upload & recognition</li>
+          <li>Calorie & nutritional estimation</li>
+          <li>Deep Learning model integration</li>
+          <li>User interaction history</li>
+        </ul>
       </td>
-      <td width="350" valign="top">
-        <b>⚙️ Scalable APIs</b><br>
-        <sub>Spring Boot + MySQL + AWS RDS</sub><br>
-        Robust backend services demonstrating secure and scalable architecture.<br><br>
-        <a href="#"><code>Repository ↗</code></a>
+      <td width="45%" valign="top">
+        <b>Architecture Flow:</b><br>
+        <code>React</code><br>
+        &nbsp;&nbsp;↓<br>
+        <code>Spring Boot</code><br>
+        &nbsp;&nbsp;↓<br>
+        <code>AI / TensorFlow Service</code><br>
+        &nbsp;&nbsp;↓<br>
+        <code>MySQL / AWS RDS & S3</code><br><br>
+        <img src="https://skillicons.dev/icons?i=react,spring,py,tensorflow,mysql,aws&theme=dark" alt="Tech Stack" /><br><br>
+        <a href="https://github.com/YashGawad/food-nutrition-estimator">
+          <img src="https://img.shields.io/badge/GitHub_Repository-121212?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <!-- SECONDARY PROJECTS -->
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3>🛒 GAWAD ELECTRONICS</h3>
+        <p><em>An e-commerce web application focused on product browsing and online shopping experience.</em></p>
+        <p><code>Next.js • React • Tailwind CSS</code></p>
+        <ul align="left">
+          <li>Product browsing & details</li>
+          <li>Shopping & cart experience</li>
+          <li>Responsive UI</li>
+        </ul>
+        <br>
+        <p><a href="#"><code>[ View Repository ↗ ]</code></a></p>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>⚛️ REACT PROJECTS</h3>
+        <p><em>A collection of frontend applications created while learning and improving React development.</em></p>
+        <p><code>React • JavaScript • HTML • CSS</code></p>
+        <br><br><br>
+        <p><a href="#"><code>[ View Repository ↗ ]</code></a></p>
+      </td>
+    </tr>
+  </table>
+
+  <!-- TERTIARY LEARNING PROJECT -->
+  <table width="100%">
+    <tr>
+      <td valign="top" align="center">
+        <h3>☕ JAVA & DSA</h3>
+        <p><em>Java implementations and Data Structures & Algorithms practice.</em></p>
+        <p><code>Java • OOP • Arrays • Strings • Linked Lists • Stacks • Queues • Searching • Sorting • Recursion</code></p>
+        <a href="#"><code>[ View Repository ↗ ]</code></a>
       </td>
     </tr>
   </table>
@@ -126,14 +151,44 @@
 
 <br>
 
-### ✦ GitHub Activity
+<!-- REDESIGNED GITHUB ACTIVITY SECTION -->
+### <code>$ github activity</code>
+<p><code>● building • learning • improving</code></p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashGawad&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=4493F8&icon_color=4493F8&text_color=c9d1d9" alt="Yash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashGawad&theme=transparent&hide_border=true&background=0D1117&ring=4493F8&fire=4493F8&currStreakLabel=c9d1d9" alt="Yash's Streak" width="48%" />
-  <br><br>
-  <!-- NOTE: The contribution graph pulls real, dynamic data -->
-  <img src="https://ghchart.rshah.org/4493F8/YashGawad" alt="Yash's Contribution Graph" />
+  <table width="100%">
+    <tr>
+      <td colspan="2" align="center">
+        <br>
+        <!-- Real GitHub Contribution Graph -->
+        <a href="https://github.com/YashGawad">
+          <img src="https://ghchart.rshah.org/4493F8/YashGawad" alt="Yash's Contribution Graph" />
+        </a>
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <br>
+        <!-- Developer Signals -->
+        <p><code>[ BUILDING ]</code> <code>[ LEARNING ]</code> <code>[ EXPLORING ]</code> <code>[ SHIPPING ]</code></p>
+        <br>
+        <!-- Authentic, compact activity snapshot -->
+        <img src="https://img.shields.io/github/repos/YashGawad?label=Repositories&style=flat-square&color=0D1117&logo=github" alt="Repos" />
+        <img src="https://img.shields.io/github/followers/YashGawad?label=Followers&style=flat-square&color=0D1117" alt="Followers" />
+        <img src="https://img.shields.io/github/stars/YashGawad?label=Stars&style=flat-square&color=0D1117" alt="Stars" />
+        <br><br>
+      </td>
+      <td width="50%" valign="top">
+        <br>
+        <b>Featured Repositories</b><br><br>
+        <code>↗</code> <a href="https://github.com/YashGawad/food-nutrition-estimator"><b>Food Nutrition Estimator</b></a><br>
+        <code>↗</code> <a href="https://github.com/YashGawad"><b>Gawad Electronics</b></a><br>
+        <code>↗</code> <a href="https://github.com/YashGawad"><b>React Projects</b></a>
+        <br><br>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
