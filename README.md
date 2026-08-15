@@ -160,10 +160,10 @@
     <tr>
       <td colspan="2" align="center">
         <br>
-        <!-- Real GitHub Contribution Graph -->
-        <a href="https://github.com/YashGawad">
-          <img src="https://ghchart.rshah.org/4493F8/YashGawad" alt="Yash's Contribution Graph" />
-        </a>
+       <!-- Dynamic Activity Analytics Dashboard -->
+      <a href="https://github.com/YashGawad">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?    username=YashGawad&bg_color=0D1117&color=c9d1d9&line=4493F8&point=FFFFFF&hide_border=true&hide_title=true&area=true" alt="Yash's Activity Graph" width="100%" />
+      </a>
         <br><br>
       </td>
     </tr>
@@ -173,18 +173,24 @@
         <!-- Developer Signals -->
         <p><code>[ BUILDING ]</code> <code>[ LEARNING ]</code> <code>[ EXPLORING ]</code> <code>[ SHIPPING ]</code></p>
         <br>
-        <!-- Authentic, compact activity snapshot -->
-        <img src="https://img.shields.io/github/repos/YashGawad?label=Repositories&style=flat-square&color=0D1117&logo=github" alt="Repos" />
-        <img src="https://img.shields.io/github/followers/YashGawad?label=Followers&style=flat-square&color=0D1117" alt="Followers" />
-        <img src="https://img.shields.io/github/stars/YashGawad?label=Stars&style=flat-square&color=0D1117" alt="Stars" />
+        <!-- Reliable Interactive Activity Buttons -->
+        <a href="https://github.com/YashGawad?tab=repositories">
+          <img src="https://img.shields.io/badge/Repositories-View_Here-0D1117?style=flat-square&logo=github&labelColor=161b22&color=0D1117" alt="Repos" />
+        </a>
+        <a href="https://github.com/YashGawad?tab=followers">
+          <img src="https://img.shields.io/badge/Followers-View_Here-0D1117?style=flat-square&labelColor=161b22&color=0D1117" alt="Followers" />
+        </a>
+        <a href="https://github.com/YashGawad?tab=stars">
+          <img src="https://img.shields.io/badge/Stars-View_Here-0D1117?style=flat-square&labelColor=161b22&color=0D1117" alt="Stars" />
+        </a>
         <br><br>
       </td>
       <td width="50%" valign="top">
         <br>
         <b>Featured Repositories</b><br><br>
         <code>↗</code> <a href="https://github.com/YashGawad/food-nutrition-estimator"><b>Food Nutrition Estimator</b></a><br>
-        <code>↗</code> <a href="https://github.com/YashGawad"><b>Gawad Electronics</b></a><br>
-        <code>↗</code> <a href="https://github.com/YashGawad"><b>React Projects</b></a>
+        <code>↗</code> <a href="https://github.com/YashGawad/gawad-electronics"><b>Gawad Electronics</b></a><br>
+        <code>↗</code> <a href="https://github.com/YashGawad/react-projects"><b>React Projects</b></a>
         <br><br>
       </td>
     </tr>
