@@ -125,10 +125,9 @@
   <tr>
     <td colspan="2" align="center" bgcolor="#0D1117">
       <br>
-      <!-- Option 1: Glowing Analytics Dashboard -->
+      <!-- Option 2: 3D Isometric Contribution Graph -->
       <a href="https://github.com/YashGawad">
-        <!-- 3D Isometric Contribution Graph -->
-        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+        <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="95%" />
       </a>
       <br><br>
     </td>
