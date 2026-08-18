@@ -5,6 +5,10 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+# THIS IS THE CRUCIAL PART YOU WERE MISSING:
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
