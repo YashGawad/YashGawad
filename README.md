@@ -5,6 +5,13 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="Header Divider" />
 </p>
 
+<!-- ==================== PLAYER AVATAR ==================== -->
+<p align="center">
+  <a href="https://github.com/YashGawad">
+    <img src="https://github.com/YashGawad.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #00F0FF;" alt="Yash Gawad Avatar" />
+  </a>
+</p>
+
 # ⚡ `YASH GAWAD` ⚡
 
 <p align="center">
