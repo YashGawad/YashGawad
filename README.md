@@ -339,9 +339,9 @@ DATA STRUCTURES & ALGORITHMS
 <h2>📊 GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashGawad&theme=tokyo-night&bg_color=0d1117&color=00f0ff&line=7928ca&point=ff007f&area=true&hide_border=true"
+  <img src="https://streak-stats.demolab.com?user=YashGawad&theme=tokyonight&hide_border=true"
        width="95%"
-       alt="GitHub Activity Graph" />
+       alt="GitHub Streak & Contribution Stats" />
 </p>
 
 <p align="center">
@@ -363,64 +363,9 @@ DATA STRUCTURES & ALGORITHMS
 
 <br>
 
-<!-- ==================== ROADMAP ==================== -->
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png"
   width="100%"
   alt="Divider" />
-
-<h2>🗺️ CURRENT ROADMAP</h2>
-
-```text
-                    🎓 COMPUTER ENGINEERING
-                              │
-                              ▼
-                    ☕ JAVA + OOP + DSA
-                              │
-                              ▼
-                    ⚙️ BACKEND DEVELOPMENT
-                              │
-                    ┌─────────┴─────────┐
-                    ▼                   ▼
-              Spring Boot          REST APIs
-                    │
-                    ▼
-                  🌐 FULL STACK
-                    │
-             ┌──────┴──────┐
-             ▼             ▼
-          React.js      Databases
-             │
-             └──────┬──────┘
-                    ▼
-                 ☁️ AWS
-                    │
-                    ▼
-               🐳 Docker
-                    │
-                    ▼
-                🧠 AI / ML
-                    │
-                    ▼
-          🚀 PRODUCTION SOFTWARE
-```
-
-### 🎯 Goals
-
-* [x] Build full-stack web applications
-* [x] Work with Git and GitHub
-* [x] Develop an AI-powered full-stack project
-* [x] Work with AWS cloud services
-* [x] Practice Java and object-oriented programming
-* [ ] Strengthen Data Structures & Algorithms
-* [ ] Build more production-quality applications
-* [ ] Deepen Spring Boot and backend architecture
-* [ ] Improve cloud deployment and DevOps skills
-* [ ] Explore advanced AI/ML applications
-* [ ] Contribute to open-source projects
-* [ ] Grow toward software engineering internships and roles
-
-<br>
 
 <!-- ==================== CERTIFICATIONS ==================== -->
 
